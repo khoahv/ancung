@@ -1,0 +1,17 @@
+{
+    "PORT": 3000,
+    "BASE_URL": "/api",
+    "mongodb": {
+        "host": "localhost:27017",
+        "hostlocal": "mongodb://user:user123@ds143163.mlab.com:43163/user",
+        "hostweb": "mongodb://user:user123@ds143163.mlab.com:43163/user",
+        "database": "ancung" 
+    },
+    "TOKEN": "x-access-token",
+    "timeToken": 86400,
+    "MAIL": {
+        "SERVICE": "Gmail",
+        "USERNAME": "ancungbanbe@gmail.com",
+        "PASSWORD": "ha2281996"
+    }
+}
